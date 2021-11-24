@@ -1,0 +1,11 @@
+{
+  "xConfig": {
+    "UserName": "not required",
+    "AccessToken": "", //Get this from https://twitchtokengenerator.com/": null,
+    "ClientID": "gp762nuuoqcoxypju8c569th9wz7q5", //leave this alone!
+    "Source": "hidden channel",
+    "Destination": "rtmp://192.168.1.2/live/stream",
+    "CheckPeriod": 3 // seconds
+  }
+
+}
